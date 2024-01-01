@@ -9,20 +9,17 @@
 
 # My Projects
 
-### Artie: The PDFphile
-- [Artie GitHub](https://github.com/JoelDJ2002/Artie_the_PDFphile)
+
+### [Artie: The PDFphile](https://github.com/JoelDJ2002/Artie_the_PDFphile)
 - Technologies: Langchain, HugginFace, Streamlit, HTML, CSS
 
-### Timmy: The CSVphile
-- [Timmy GitHub](https://github.com/JoelDJ2002/Timmy_the_CSVphile)
+### [Timmy: The CSVphile](https://github.com/JoelDJ2002/Timmy_the_CSVphile)
 - Technologies: Langchain, HugginFace, Streamlit, HTML, CSS
 
-### Pepper Bell Disease Predictor
-- [Pepper Bell Disease Predictor GitHub](https://github.com/JoelDJ2002/Bell-Pepper-Disease-Classifier)
+### [Pepper Bell Disease Predictor GitHub](https://github.com/JoelDJ2002/Bell-Pepper-Disease-Classifier)
 - Technologies: TensorFlow, CNN, FAST API, HTML, CSS
 
-### Potato Blight Disease Predictor
-- [Potato Blight Disease Predictor GitHub](https://github.com/JoelDJ2002/Potato-Blight-Disease-Predictor)
+### [Potato Blight Disease Predictor GitHub](https://github.com/JoelDJ2002/Potato-Blight-Disease-Predictor)
 - Technologies: TensorFlow, CNN, FAST API, HTML, CSS
 
 Feel free to explore the GitHub repositories for detailed insights into each project. I'm always open to collaboration and welcome any feedback or suggestions. 
